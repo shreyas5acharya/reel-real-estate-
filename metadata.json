@@ -1,0 +1,6 @@
+{
+  "name": "Sterling & Co. Luxury Real Estate",
+  "description": "Private brokerage and architectural advisory for landmark residences across America.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
